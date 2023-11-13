@@ -1,0 +1,1 @@
+{"name":"Local: comparator","url":"d:\\Projects\\Cpp\\DSA\\comparator.cpp","tests":[{"id":1699856074687,"input":"1 2\n1 2\n5 4\n2 4\n0 5","output":"e"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Projects\\Cpp\\DSA\\comparator.cpp","group":"local","local":true}
