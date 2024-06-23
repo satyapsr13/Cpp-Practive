@@ -1,0 +1,1 @@
+{"name":"Local: 1837b","url":"d:\\Projects\\Cpp\\love01\\1837b.cpp","tests":[{"id":1717842560894,"input":"4\n7\n>><>><>\n4\n>><<\n5\n>>>>>\n7\n<><><><\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Projects\\Cpp\\love01\\1837b.cpp","group":"local","local":true}
